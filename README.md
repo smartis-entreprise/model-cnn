@@ -11,7 +11,7 @@ Before you begin, make sure you have the following software installed on your ma
 
 - Open your terminal or command prompt.
 - Change the current working directory to the location where you want to store the cloned repository.
-- Type `git clone https://github.com/smartis-entreprise/model-cnn.git` and press enter. This will create a copy of the project on your local machine.
+- Type `git clone git@github.com:smartis-entreprise/model-cnn.git` and press enter. This will create a copy of the project on your local machine.
 
 ## Opening the Project in Jupyter Lab
 
