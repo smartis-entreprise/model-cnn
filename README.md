@@ -4,8 +4,8 @@
 
 Before you begin, make sure you have the following software installed on your machine:
 
- - Git
- - Anaconda
+ - [Git](https://git-scm.com/downloads)
+ - [Anaconda](https://www.anaconda.com/products/distribution)
 
 ## Cloning the Repository
 
@@ -20,4 +20,4 @@ Before you begin, make sure you have the following software installed on your ma
 - In Jupyter Lab, navigate to the location of the cloned repository.
 - Open the project by clicking on the .ipynb file.
 
-Alternatively, you can open Jupyter Lab from the command line by typing `jupyter` lab in your terminal or command prompt.
+Alternatively, you can open Jupyter Lab from the command line by typing `jupyter lab` in your terminal or command prompt.
